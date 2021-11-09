@@ -1,3 +1,3 @@
 # Breakout-Java
 
-Project done in for Open Polytechnic using Java on Eclipse IDE
+Project done for Open Polytechnic using Java on Eclipse IDE
